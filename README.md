@@ -19,6 +19,7 @@ It serves as an interactive portfolio, allowing viewers to follow my thought pro
 ---
 
 📂 Website Structure
+
 The website is organized into 8 sections, each representing a key stage of my product development and problem‑solving approach:
 01 — Introduction
 Professional background, core strengths, and focus areas.
@@ -40,6 +41,7 @@ Final remarks and contact details.
 ---
 
 🧭 Navigation
+
 The top navigation bar provides quick access to each section:
 Intro • Overview • Situation • Task • Action • Results • Learnings • Closing • Print/PDF • Contact
 Smooth scrolling ensures a seamless and intuitive user experience.
