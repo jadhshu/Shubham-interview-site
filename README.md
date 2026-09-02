@@ -1,60 +1,49 @@
 📌 Project Title
-Tesla‑Inspired Interview Presentation — Tag & Scan (Bulk Activation Project)
-A modern, responsive, Tesla‑style storytelling website showcasing my 8‑section STAR‑based interview presentation.
+Product Development Portfolio — Interactive Presentation Website
+A modern, responsive, STAR‑based storytelling website showcasing my structured approach to product development, concept creation, testing, and problem‑solving.
 ---
-
 📖 Project Description
-This website is a clean, minimalistic, Tesla‑inspired presentation of my technical project: Tag & Scan — Bulk Activation & Quality Improvement for IoT Sensor Tags.
-It is designed as a scrolling, section‑based narrative that mirrors Tesla’s product‑page aesthetics — high contrast, bold typography, smooth transitions, and structured storytelling.
-The site is intended for use during my Tesla interview, allowing the panel to visually follow the STAR framework across eight crisp, well‑defined sections.
-
+This website presents a clean, minimalistic, and structured overview of my product development work. It highlights how I approach challenges, define requirements, design concepts, validate solutions, and deliver measurable improvements.
+The site uses a scrolling, section‑based narrative inspired by modern product‑page aesthetics — high contrast, clear typography, smooth transitions, and a strong visual hierarchy.
+It serves as an interactive portfolio, allowing viewers to follow my thought process across eight well‑defined sections based on the STAR model.
 ---
-
 🌐 Live Demo (GitHub Pages)
-👉 https://jadhshu.github.io/Shubham-interview-site/ (jadhshu.github.io in Bing)
-
+👉 https://jadhshu.github.io/Shubham-interview-site/
 ---
-
 📂 Website Structure
-The website is organized into 8 Tesla‑style sections, each representing a slide of the interview presentation:
-• 01 — Introduction
-Professional identity, role, signature statement, overview, and focus tags.
-• 02 — Project Overview
-High‑level summary of the Tag & Scan initiative.
-• 03 — Situation
-Operational bottleneck, challenges, and context.
-• 04 — Task
-Your role, responsibilities, KPIs, and GEMBA insights.
-• 05 — Action
-Execution steps: requirements, planning, testing, rollout.
-• 06 — Results
-Efficiency gains, quality improvements, stability, business impact.
-• 07 — Learnings & Achievements
-Key insights, achievements, and why you were effective.
-• 08 — Closing
-Thank‑you message and contact details.
-
+The website is organized into 8 sections, each representing a key stage of my product development and problem‑solving approach:
+01 — Introduction
+Professional background, core strengths, and focus areas.
+02 — Project Overview
+High‑level summary of the selected case study and its relevance.
+03 — Situation
+Context, challenges, and initial problem framing.
+04 — Task
+Responsibilities, objectives, KPIs, and requirement definition.
+05 — Action
+Concept creation, testing strategy, validation steps, and execution.
+06 — Results
+Measured improvements, stability, quality gains, and business impact.
+07 — Learnings & Achievements
+Key insights, engineering lessons, and personal growth.
+08 — Closing
+Final remarks and contact details.
 ---
-
 🧭 Navigation
-The top navigation bar includes links to each section:
+The top navigation bar provides quick access to each section:
 Intro • Overview • Situation • Task • Action • Results • Learnings • Closing • Print/PDF • Contact
-Smooth scrolling ensures a seamless Tesla‑style experience.
-
+Smooth scrolling ensures a seamless and intuitive user experience.
 ---
-
 🎨 Design & Aesthetic
-• Tesla‑inspired color palette: Black • White • Red (#E82127)
 • Clean, minimalistic layout
+• Black • White • Red (#E82127) color palette
 • Full‑width section backgrounds
 • Modern typography (Inter + Roboto)
-• Crisp spacing and strong visual hierarchy
+• Strong visual hierarchy and spacing
 • Mobile‑first responsive design
-
 ---
-
 ⚙️ Technologies Used
 • HTML5
-• CSS3 (Tesla‑style custom design system)
+• CSS3 (custom design system)
 • JavaScript (ES6)
 • GitHub Pages for deployment
